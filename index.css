@@ -521,7 +521,7 @@ display: inline-block;
         position: absolute;
         right:690px;
         top:190px;
-        background-image: url(/Images/unnamed.jpg);
+        background-image: url(./Images/unnamed.jpg);
         background-position:center;
         border:6px solid #89978e ;
         background-repeat:no-repeat;
